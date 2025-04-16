@@ -1,5 +1,5 @@
 {
   "version": "public",
-  "allowAccess": true,
-  "version": "beta-2.2.2"
+  "allowAccess": false,
+  "version": "2.2.2"
 }
