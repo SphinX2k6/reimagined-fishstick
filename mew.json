@@ -1,4 +1,5 @@
 {
   "version": "public",
-  "allowAccess": true
+  "allowAccess": true,
+  "version": "beta-2.2.2"
 }
