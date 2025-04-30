@@ -1,6 +1,6 @@
 {
   "version": "public",
-  "allowAccess": true,
+  "allowAccess": false,
   "version": "2.2.3",
   "loader": "2.3"
 }
