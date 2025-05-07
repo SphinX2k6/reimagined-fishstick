@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Info API Example</title>
+</head>
+<body>
+    <pre id="accountInfo">Fetching account details...</pre>
+
+    <script>
+        async function fetchAccountInfo() {
+            const accountInfoDiv = document.getElementById('accountInfo');
+            const apiUrl = 'https://zygote-auth.vercel.app/account/495579e5e30c1e81';
+
+            try {
+                const response = await fetch(apiUrl, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                        'Cache-Control': 'no-cache'
+                    }
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                accountInfoDiv.innerText = JSON.stringify(data, null, 0);
+            } catch (error) {
+                accountInfoDiv.innerText = JSON.stringify({ error: `Failed to fetch account details: ${error.message}` }, null, 0);
+            }
+        }
+
+        window.onload = fetchAccountInfo;
+    </script>
+</body>
+</html>
