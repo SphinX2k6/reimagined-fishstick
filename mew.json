@@ -1,5 +1,4 @@
 {
-  "version": "2.4",
-  "allowAccess": true,
-  "loader": "2.3"
+  "version": "2.5",
+  "allowAccess": true
 }
