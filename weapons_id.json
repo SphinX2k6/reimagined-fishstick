@@ -1,0 +1,374 @@
+[
+    {
+        "ItemId": 21010015,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21020015,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21030015,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21040015,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050015,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21010024,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020024,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030024,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040024,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050024,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21010013,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21020013,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21030013,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21040013,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21050013,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21010012,
+        "QualityId": 2
+    },
+    {
+        "ItemId": 21020012,
+        "QualityId": 2
+    },
+    {
+        "ItemId": 21030012,
+        "QualityId": 2
+    },
+    {
+        "ItemId": 21040012,
+        "QualityId": 2
+    },
+    {
+        "ItemId": 21050012,
+        "QualityId": 2
+    },
+    {
+        "ItemId": 21010011,
+        "QualityId": 1
+    },
+    {
+        "ItemId": 21020011,
+        "QualityId": 1
+    },
+    {
+        "ItemId": 21030011,
+        "QualityId": 1
+    },
+    {
+        "ItemId": 21040011,
+        "QualityId": 1
+    },
+    {
+        "ItemId": 21050011,
+        "QualityId": 1
+    },
+    {
+        "ItemId": 21010023,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21020023,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21050023,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21010034,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020034,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050034,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21010044,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020044,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030044,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040044,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050044,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21010043,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21020043,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21050043,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21010053,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21020053,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21030053,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21040053,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21050053,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21010064,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020064,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030064,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050064,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030023,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21040023,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21030034,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040034,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21010074,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020074,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030074,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040074,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050074,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21010016,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050016,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21010084,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020084,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030084,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050084,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040064,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030043,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21040043,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21010026,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21020016,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21010063,
+        "QualityId": 3
+    },
+    {
+        "ItemId": 21050026,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21040016,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050036,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21040084,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020017,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050017,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020026,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21010094,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21020094,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21030094,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040094,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050094,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21040026,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21030016,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21020036,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050046,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050027,
+        "QualityId": 4
+    },
+    {
+        "ItemId": 21050056,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21020046,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21040036,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21030026,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21020056,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21010036,
+        "QualityId": 5
+    },
+    {
+        "ItemId": 21050066,
+        "QualityId": 5
+    }
+]
