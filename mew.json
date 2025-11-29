@@ -1,4 +1,5 @@
 {
   "version": "2.8",
-  "allowAccess": false
+  "allowAccess": false,
+  "allowPaidOnly": true
 }
